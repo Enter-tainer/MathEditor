@@ -74,4 +74,8 @@ export default Vue.extend({
 <style>
 @import "codemirror/lib/codemirror.css";
 @import "codemirror/theme/material.css";
+@import "firacode/distr/fira_code.css";
+textarea {
+  font-family: Firacode, monospace
+}
 </style>
