@@ -76,6 +76,10 @@ export default Vue.extend({
 @import "codemirror/theme/material.css";
 @import "firacode/distr/fira_code.css";
 .CodeMirror {
-  font-family: Firacode, monospace
+  height: auto;
+}
+.CodeMirror pre {
+  font-family: "Fira Code Retina", Consolas, monospace;
+  font-feature-settings: "liga";
 }
 </style>
