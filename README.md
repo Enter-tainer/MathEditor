@@ -1,5 +1,7 @@
 # MathEditor
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Enter-tainer/MathEditor.svg)](https://greenkeeper.io/)
+
 ![screenshot](https://i.loli.net/2018/12/30/5c286273f29a6.png)
 
 
