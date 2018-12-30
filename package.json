@@ -1,8 +1,8 @@
 {
   "name": "matheditor-zhihu",
   "version": "1.0.0",
-  "description": "[![Build Status](https://travis-ci.com/cheneyweb/parcel-vue.svg?branch=master)](https://travis-ci.com/cheneyweb/parcel-vue)",
-  "main": "index.js",
+  "description": "",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "npx parcel index.html",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cheneyweb/parcel-vue.git"
+    "url": "git+https://github.com/Enter-tainer/MathEditor.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cheneyweb/parcel-vue/issues"
+    "url": "https://github.com/Enter-tainer/MathEditor/issues"
   },
-  "homepage": "https://github.com/cheneyweb/parcel-vue#readme",
+  "homepage": "https://github.com/Enter-tainer/MathEditor#readme",
   "devDependencies": {
     "@vue/component-compiler-utils": "^2.3.1",
     "parcel-bundler": "^1.11.0",
