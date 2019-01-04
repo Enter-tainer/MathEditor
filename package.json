@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "npx parcel index.html",
-    "build": "npx parcel build index.html"
+    "build": "npx parcel build index.html --experimental-scope-hoisting"
   },
   "repository": {
     "type": "git",
