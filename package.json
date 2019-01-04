@@ -28,6 +28,7 @@
   "dependencies": {
     "firacode": "^1.205.0",
     "mdui": "^0.4.2",
+    "parcel-plugin-bundle-visualiser": "^1.2.0",
     "vue": "^2.5.21",
     "vue-codemirror": "^4.0.6",
     "vue-hot-reload-api": "^2.3.1",
