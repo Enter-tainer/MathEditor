@@ -36,6 +36,7 @@
 <script lang="ts">
 import Vue from "vue";
 import mdui from "mdui";
+import katex from 'katex';
 import "codemirror/mode/stex/stex.js";
 import { codemirror } from "vue-codemirror";
 export default Vue.extend({
@@ -61,7 +62,7 @@ export default Vue.extend({
   },
   computed: {
     link() {
-      return `https://www.zhihu.com/equation?tex=${encodeURI(
+      return `https://www.zhihu.com/equation?tex=${encodeURIComponent(
         this.text
       )}&preview=true`;
     },

@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "firacode": "^1.205.0",
+    "katex": "^0.10.1",
     "mdui": "^0.4.2",
     "parcel-plugin-bundle-visualiser": "^1.2.0",
     "vue": "^2.5.21",
