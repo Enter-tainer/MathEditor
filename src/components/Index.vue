@@ -36,7 +36,6 @@
 <script lang="ts">
 import Vue from "vue";
 import mdui from "mdui";
-import katex from 'katex';
 import "codemirror/mode/stex/stex.js";
 import { codemirror } from "vue-codemirror";
 export default Vue.extend({
