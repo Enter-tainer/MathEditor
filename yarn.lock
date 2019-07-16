@@ -2176,10 +2176,10 @@ find-up@^2.1.0:
   dependencies:
     locate-path "^2.0.0"
 
-firacode@^1.205.0:
-  version "1.205.0"
-  resolved "http://registry.npm.taobao.org/firacode/download/firacode-1.205.0.tgz#495e052d0e5591e7153424b6faeee638ef3d8596"
-  integrity sha1-SV4FLQ5VkecVNCS2+u7mOO89hZY=
+firacode@^1.206.0:
+  version "1.206.0"
+  resolved "https://registry.yarnpkg.com/firacode/-/firacode-1.206.0.tgz#00a85b70f731bb29d968f4fa583c6b50049b7849"
+  integrity sha512-+Gw/rm0O8vuAvANMWOFgZNJqPHZN1nYQpv4ptUjfwJLMDTzcLOFVK73LKaTC/nXRFUDV9dRi8kBQilhEXVVI+A==
 
 flatten@^1.0.2:
   version "1.0.2"
