@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Enter-tainer/MathEditor#readme",
   "devDependencies": {
     "@vue/component-compiler-utils": "^3.0.0",
-    "parcel-bundler": "^1.11.0",
+    "parcel-bundler": "^1.12.4",
     "typescript": "^3.5.3",
     "vue-template-compiler": "^2.6.10"
   },
